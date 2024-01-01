@@ -71,7 +71,11 @@ DY-SV19T integrates I/O subsection triggering, UART serial port control, ONE_lin
 
 ## Assembly
 
-A couple of general soldering rules:
+Some general soldering rules:
+
+Use "no-clean solder" for longevity of your circuit. If you're a beginner, use leaded solder (60/40) no clean. If you use lead free, make sure it has silver in it.
+
+
 
 Start with the SAMD21, making sure you are aligned with the silkscreen. Then proceed with the DY-SV19T. Then the resistors (keep 2 clipped legs aside),  then switches, potentiometers. Lastly, the speaker. Glue it in place with thick mounting tape (I used 3M extreme mounting tape) then use the clipped legs from the resistors to solder to the connections.
 

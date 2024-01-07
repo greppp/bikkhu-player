@@ -37,7 +37,7 @@ It contains an onboard speaker, an SD card reader, a volume knob, and a USB-C co
 - UART serial port control (baud rate: 9600 bit/s)
 - Onboard 5W Class D amplifier circuit can directly drive 4ohm 3~5W speakers
 - 24-bit DAC output, dynamic range support 90dB, SNR support 85dB
-- Can read SD cards up to 32GB (FAT 32 format)
+- Can read SD cards up to 32GB (FAT 32 format, MBR Partition Map)
 - Supply voltage: 3.7V~5V DC 
 - Logic level : 3.3V
 - Onboard 4.7K pull-up/down resistors already present (for mode selection)
